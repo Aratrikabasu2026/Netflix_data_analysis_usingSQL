@@ -225,20 +225,11 @@ The queries are built to answer the following kinds of questions. Run them again
 └── README.md
 ```
 
-## Future Improvements
-
-- Normalize `country`, `casts`, and `listed_in` into separate lookup tables.
-- Convert `date_added` to a proper `DATE` type.
-- Add a MySQL-compatible version of every query.
-- Build a Power BI or Tableau dashboard on top of these results.
-- Add visualizations and screenshots of query outputs.
 
 ## Author
-
+Aratrika Basu
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
-
+- GitHub:[@Aratrikabasu2026]_(https://github.com/Aratrikabasu2026)
+- Email: basuaratrika7@gmail.com
 If you found this project helpful, please give it a star.
