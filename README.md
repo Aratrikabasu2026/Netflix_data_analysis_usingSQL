@@ -1,5 +1,5 @@
 <p align="center">
-  <imgsrc="netflix_logo.png"alt="Netflix Logo" width="400></p>
+  <imgsrc="netflix_wordmark.png"alt="Netflix Logo" width="400></p>
 
 <h1 align="center">Netflix Data Analysis using SQL</h1>
 
