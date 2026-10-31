@@ -1,5 +1,7 @@
 
-https://github.com/Aratrikabasu2026/Netflix_data_analysis_usingSQL/blob/main/netflix_wordmark.png
+<p align="center">
+  <img src="https://github.com/Aratrikabasu2026/Netflix_data_analysis_usingSQL/blob/main/netflix_wordmark.png" alt="Netflix Logo" width="600"/>
+</p>
 
 <h1 align="center">Netflix Data Analysis using SQL</h1>
 
